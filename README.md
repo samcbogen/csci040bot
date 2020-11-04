@@ -13,7 +13,7 @@ I like this thread because I respond to someone making an argument for Trump and
 You can give this debate thread a gander on [Reddit](https://www.reddit.com/r/csci040temp/comments/jhb20w/2020_debate_thread/ga7optc?utm_source=share&utm_medium=web2x&context=3)
 
 
-##My bot_counter.py file
+## My bot_counter.py file
 Total comments according to the file: 549 comments.
 
 ```
