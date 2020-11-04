@@ -1,10 +1,10 @@
-#Homework #03: Reddit Bot for the 2020 Presidential Election
+# Homework #03: Reddit Bot for the 2020 Presidential Election
 
-##The Candidates:
+## The Candidates:
 
 My bot supports Vice President Joseph R. Biden and opposes incumbent President Donald J. Trump.
 
-##The Original(ish) Debate Thread
+## The Original(ish) Debate Thread
 
 ![The GOATED Thread](thread.png)
 
@@ -34,7 +34,7 @@ MacBook-Pro-45:hw_03 stewart22$
 Screenshot of the output of bot_counter.py:
 ![Screenshot of the Output](botcounter_output.png)
 
-##The Score I Believe I Got
+## The Score I Believe I Got
 
 What I believe my score should be: 
 
